@@ -1,0 +1,7 @@
+D:\Моделирование\PPOQueue\PQueueTest\obj\Debug\PQueueTest.csprojResolveAssemblyReference.cache
+D:\Моделирование\PPOQueue\PQueueTest\bin\Debug\PQueueTest.dll
+D:\Моделирование\PPOQueue\PQueueTest\bin\Debug\PQueueTest.pdb
+D:\Моделирование\PPOQueue\PQueueTest\bin\Debug\PPOQueue.exe
+D:\Моделирование\PPOQueue\PQueueTest\bin\Debug\PPOQueue.pdb
+D:\Моделирование\PPOQueue\PQueueTest\obj\Debug\PQueueTest.dll
+D:\Моделирование\PPOQueue\PQueueTest\obj\Debug\PQueueTest.pdb

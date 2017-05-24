@@ -1,0 +1,6 @@
+D:\Моделирование\PPOQueue\PPOQueue\bin\Debug\PPOQueue.exe.config
+D:\Моделирование\PPOQueue\PPOQueue\bin\Debug\PPOQueue.exe
+D:\Моделирование\PPOQueue\PPOQueue\bin\Debug\PPOQueue.pdb
+D:\Моделирование\PPOQueue\PPOQueue\obj\Debug\PPOQueue.exe
+D:\Моделирование\PPOQueue\PPOQueue\obj\Debug\PPOQueue.pdb
+D:\Моделирование\PPOQueue\PPOQueue\obj\Debug\PPOQueue.csprojResolveAssemblyReference.cache
